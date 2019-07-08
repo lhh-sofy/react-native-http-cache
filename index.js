@@ -1,5 +1,5 @@
 /**
- * Created by tdzl2_000 on 2015-12-29.
+ * Created by tdzl2_000 on 2018-12-29.
  */
 import { NativeModules } from 'react-native';
 const native = NativeModules.HttpCache;
